@@ -1,3 +1,4 @@
+## Programming I
 This project is a console-based arcade game built in C#. The player
 controls an X character using arrow keys and must catch moving targets
 before the timer ends. As the player scores points, the targets move

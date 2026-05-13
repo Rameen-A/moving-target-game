@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\6247731\\OneDrive - John Abbott College\\courses\\Game Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22842238-8B4A-4647-A5DF-394F2638B592}|Game Project\\Game Project.csproj|c:\\users\\6247731\\onedrive - john abbott college\\courses\\game project\\game project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22842238-8B4A-4647-A5DF-394F2638B592}|Game Project\\Game Project.csproj|solutionrelative:game project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\6247731\\OneDrive - John Abbott College\\courses\\Game Project\\Game Project\\Program.cs",
+              "RelativeDocumentMoniker": "Game Project\\Program.cs",
+              "ToolTip": "C:\\Users\\6247731\\OneDrive - John Abbott College\\courses\\Game Project\\Game Project\\Program.cs",
+              "RelativeToolTip": "Game Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAP0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:08:48.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
